@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MiNot/Desktop/AVSHometask5/Guests.cpp
+Guests.h
+C:/Users/MiNot/Desktop/AVSHometask5/Guests.h
+iostream
+-
+thread
+-
+chrono
+-
+
+C:/Users/MiNot/Desktop/AVSHometask5/Guests.h
+Hotel.h
+C:/Users/MiNot/Desktop/AVSHometask5/Hotel.h
+
+C:/Users/MiNot/Desktop/AVSHometask5/Hotel.cpp
+Hotel.h
+C:/Users/MiNot/Desktop/AVSHometask5/Hotel.h
+iostream
+-
+chrono
+-
+thread
+-
+
+C:/Users/MiNot/Desktop/AVSHometask5/Hotel.h
+Room.h
+C:/Users/MiNot/Desktop/AVSHometask5/Room.h
+
+C:/Users/MiNot/Desktop/AVSHometask5/Room.h
+
